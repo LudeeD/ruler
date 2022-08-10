@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://UnitOverlay.gd" type="Script" id=1]
+
+[node name="UnitOverlay" type="TileMap"]
+modulate = Color( 1, 1, 1, 0.356863 )
+format = 1
+script = ExtResource( 1 )
